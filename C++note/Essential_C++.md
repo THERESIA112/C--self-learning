@@ -1,6 +1,6 @@
 # Essential C++
 
-## 基础
+## 1.基础
 
 1.关键字：程序语言预先定义的有特殊意义的名称。
 
@@ -37,9 +37,6 @@
          *pi=1024; //将1024写入val
       ```
     - type_of_object_pointed_to * name_of_pointer_object
-    - ```C++
-      //class object调用操作
-      ```
 
          
     
