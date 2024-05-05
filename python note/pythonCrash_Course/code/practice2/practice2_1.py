@@ -1,0 +1,2 @@
+variable = "MIKU"
+print(variable)
